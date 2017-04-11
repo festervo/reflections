@@ -1,0 +1,4 @@
+# Git training
+#
+# Using FC (Find Change) in command
+# Well it didn't work - so...
